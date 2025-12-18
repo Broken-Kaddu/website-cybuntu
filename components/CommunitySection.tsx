@@ -35,11 +35,11 @@ const CommunitySection: React.FC = () => {
             
             <div className="grid grid-cols-2 gap-4 w-full max-w-sm">
                <div className="bg-cyber-dark p-6 rounded-2xl border border-white/10 text-center">
-                  <div className="text-3xl font-bold text-white mb-1">1.2k</div>
+                  <div className="text-3xl font-bold text-white mb-1">GROWING</div>
                   <div className="text-xs text-slate-500 font-mono">STARS</div>
                </div>
                <div className="bg-cyber-dark p-6 rounded-2xl border border-white/10 text-center">
-                  <div className="text-3xl font-bold text-white mb-1">85</div>
+                  <div className="text-3xl font-bold text-white mb-1">GROWING</div>
                   <div className="text-xs text-slate-500 font-mono">CONTRIBUTORS</div>
                </div>
                <div className="col-span-2 bg-gradient-to-r from-cyber-neonCyan/20 to-cyber-neonPurple/20 p-6 rounded-2xl border border-white/10 flex items-center justify-center gap-4">
